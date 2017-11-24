@@ -1,3 +1,4 @@
+# argv is argument variable
 from sys import argv
 script, filename = argv
 
